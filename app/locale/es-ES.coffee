@@ -2,31 +2,31 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
 
   new_home:
     title: "CodeCombat - Juegos de Programación para aprender Python y JavaScript"
-#    meta_keywords: "CodeCombat, python, javascript, Coding Games"
-#    meta_description: "Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites."
-#    meta_og_url: "https://codecombat.com"
+    meta_keywords: "CodeCombat, python, javascript, Juego de codificación" # {changed 04-11-2020}
+    meta_description: "Aprende a escribir código con un juego de programación. Aprende Python, JavaScript y HTML mientras resuelves puzzles y aprendes a crear códigos para tus juegos y páginas web." # {changed 04-11-2020}
+    meta_og_url: "https://codecombat.com" # {changed 04-11-2020}
 #    become_investor: "to become an investor in CodeCombat"
-#    built_for_teachers_title: "A Coding Game Built with Teachers in Mind"
-#    built_for_teachers_blurb: "Teaching kids to code can often feel overwhelming. CodeCombat helps all educators teach students how to code in either JavaScript or Python, two of the most popular programming languages. With a comprehensive curriculum that includes six computer science units and reinforces learning through project-based game development and web development units, kids will progress on a journey from basic syntax to recursion!"
-#    built_for_teachers_subtitle1: "Computer Science"
+     built_for_teachers_title: "Un juego de codificación creado teniendo en cuenta a los profesores" # {changed 04-11-2020}
+#    built_for_teachers_blurb: "Teaching kids to code can often feel overwhelming. CodeCombat helps all educators teach students how to code in either JavaScript or Python, two of the most popular programming languages. With a comprehensive curriculum that includes six computer science units and reinforces learning through project-based game development and web development units, kids will progress on a journey from basic syntax to recursion!" # {changed 04-11-2020}
+     built_for_teachers_subtitle1: "Informática" # {changed 04-11-2020}
 #    built_for_teachers_subblurb1: "Starting with our free Introduction to Computer Science course, students master core coding concepts such as while/for loops, functions, and algorithms."
-#    built_for_teachers_subtitle2: "Game Development"
+     built_for_teachers_subtitle2: "Desarrollo de juego" # {changed 04-11-2020}
 #    built_for_teachers_subblurb2: "Learners construct mazes and use basic input handling to code their own games that can be shared with friends and family."
-#    built_for_teachers_subtitle3: "Web Development"
+     built_for_teachers_subtitle3: "Desarrollo web" # {changed 04-11-2020}
 #    built_for_teachers_subblurb3: "Using HTML, CSS, and jQuery, learners flex their creative muscles to program their own webpages with a custom URL to share with their classmates."
-    century_skills_title: "Habilidades del siglo 21"
-#    century_skills_blurb1: "Students Don't Just Level Up Their Hero, They Level Up Themselves"
+     century_skills_title: "Habilidades del siglo 21" # {changed 04-11-2020}
+     century_skills_blurb1: "Los alumnos no solo mejoran a su héroe, ¡ellos también mejoran!" # {changed 04-11-2020}
 #    century_skills_quote1: "You mess up…so then you think about all of the possible ways to fix it, and then try again. I wouldn't be able to get here without trying hard."
-#    century_skills_subtitle1: "Critical Thinking"
+     century_skills_subtitle1: "Pesamiento crítico"  # {changed 04-11-2020}
 #    century_skills_subblurb1: "With coding puzzles that are naturally scaffolded into increasingly challenging levels, CodeCombat's programming game ensures kids are always practicing critical thinking."
 #    century_skills_quote2: "Everyone else was making mazes, so I thought, ‘capture the flag’ and that’s what I did."
-#    century_skills_subtitle2: "Creativity"
+     century_skills_subtitle2: "Creatividad" # {changed 04-11-2020}
 #    century_skills_subblurb2: "CodeCombat encourages students to showcase their creativity by building and sharing their own games and webpages."
 #    century_skills_quote3: "If I got stuck on a level. I would work with people around me until we were all able to figure it out."
-#    century_skills_subtitle3: "Collaboration"
+     century_skills_subtitle3: "Collaboración" # {changed 04-11-2020}
 #    century_skills_subblurb3: "Throughout the game, there are opportunities for students to collaborate when they get stuck and to work together using our pair programming guide."
 #    century_skills_quote4: "I’ve always had aspirations of designing video games and learning how to code ... this is giving me a great starting point."
-#    century_skills_subtitle4: "Communication"
+     century_skills_subtitle4: "Communicación" # {changed 04-11-2020}
 #    century_skills_subblurb4: "Coding requires kids to practice new forms of communication, including communicating with the computer itself and conveying their ideas using the most efficient code."
 #    classroom_in_box_title: "We Strive To:"
 #    classroom_in_box_blurb1: "Engage every student so that they believe coding is for them."
@@ -74,19 +74,19 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
 #    get_started: "Get started"
 #    global_title: "Join Our Global Community of Learners and Educators"
 #    global_subtitle1: "Learners"
-#    global_subtitle2: "Lines of Code"
-#    global_subtitle3: "Teachers"
-#    global_subtitle4: "Countries"
+     global_subtitle2: "Líneas de código"  # {changed 04-11-2020}
+     global_subtitle3: "Profesores" # {changed 04-11-2020}
+     global_subtitle4: "Países"  # {changed 04-11-2020}
 #    go_to_my_classes: "Go to my classes"
 #    go_to_my_courses: "Go to my courses"
 #    quotes_quote1: "Name any program online, I’ve tried it. None of them match up to CodeCombat. Any teacher who wants their students to learn how to code... start here!"
 #    quotes_quote2: " I was surprised about how easy and intuitive CodeCombat makes learning computer science. The scores on the AP exam were much higher than I expected and I believe CodeCombat is the reason why this was the case."
 #    quotes_quote3: "CodeCombat has been the most beneficial for teaching my students real-life coding capabilities. My husband is a software engineer and he has tested out all of my programs. He put this as his top choice."
 #    quotes_quote4: "The feedback … has been so positive that we are structuring a computer science class around CodeCombat. The program really engages the students with a gaming style platform that is entertaining and instructional at the same time. Keep up the good work, CodeCombat!"
-#    see_example: "See example"
-    slogan: "El juego más atractivo para aprender a programar." # {change}
+    see_example: "Ver ejemplo"  # {changed 04-11-2020}
+    slogan: "El juego más atractivo para aprender a programar." # {change} 
 #    teach_cs1_free: "Teach CS1 Free"
-#    teachers_love_codecombat_title: "Teachers Love CodeCombat"
+    teachers_love_codecombat_title: "Los profesores les encanta Love CodeCombat"  # {changed 04-11-2020}
 #    teachers_love_codecombat_blurb1: "Report that their students enjoy using CodeCombat to learn how to code"
 #    teachers_love_codecombat_blurb2: "Would recommend CodeCombat to other computer science teachers"
 #    teachers_love_codecombat_blurb3: "Say that CodeCombat helps them support students’ problem solving abilities"
@@ -98,8 +98,8 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     play_now: "Juega ahora"
 #    im_a_parent: "I'm a Parent"
 #    im_an_educator: "I'm an Educator"
-    im_a_teacher: "Soy un profesor"
-    im_a_student: "Soy un alumno"
+    im_a_teacher: "Soy un profesor" # {suggestion "Soy professor"} NOTE, only if this text is for a button
+    im_a_student: "Soy un alumno" # {suggestion "Soy alumno"} NOTE, only if this text is for a button
     learn_more: "Aprende más"
     classroom_in_a_box: "Una clase todo en uno para enseñar informática."
     codecombat_is: "CodeCombat es una plataforma <strong>para que los estudiantes</strong> aprendan ciencia de la computación mientras juegan a un juego real."
@@ -141,13 +141,13 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     get_started_title: "Configure su clase hoy"
     get_started_subtitle: "Prepare su clase, agregue cuentas de estudiantes y siga su progreso a medida que aprenden a programar."
     request_demo: "Pide una demostración"
-#    request_quote: "Request a Quote"
+    request_quote: "Solicita un presupuesto"  # {changed 04-11-2020}
     setup_a_class: "Configurar una clase"
     have_an_account: "¿Tienes una cuenta?"
     logged_in_as: "En este momento, has iniciado sesión como"
     computer_science: "Cursos de informática para todas las edades" # {change}
     ffa: "Gratis para todos los estudiantes"
-    coming_soon: "¡Más muy pronto!"
+    coming_soon: "¡Más muy pronto!"  # {suggestion "¡Más contenido muy pronto!"}
     courses_available_in: "Los cursos están disponibles en JavaScript y Python. Los cursos de Desarrollo Web utilizan HTML, CSS, jQuery y Bootstrap." # {change}
     boast: "Cuenta con acertijos lo suficiente complejos como para fascinar a jugadores y programadores por igual."
     winning: "Una combinación ganadora entre un juego de rol y una tarea sobre programación que hacen la educación amigable y disfrutable para los niños."
@@ -210,7 +210,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     resource_hub: "Centro de recursos"
     apcsp: "Principios AP CS"
     parent: "Padres"
-#    browser_recommendation: "For the best experience we recommend using the latest version of Chrome. Download the browser here!"
+    browser_recommendation: "Para una mejor experiencia se recomienda usar la última version de Chrome. Descarga aquí el navegador." # {changed 04-11-2020}
 
   modal:
     close: "Cerrar"
@@ -361,7 +361,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     create_teacher_header: "Crear Cuenta de Maestro"
     create_individual_header: "Crear Cuenta Individual"
     email_announcements: "¡Reciba anuncios sobre los nuevos niveles y características de CodeCombat!"
-#    sign_in_to_continue: "Sign in or create an account to continue"
+    sign_in_to_continue: "Entra o crea una nueva cuenta para continuar" # {changed 04-11-2020}
 #    teacher_email_announcements: "Keep me updated on new teacher resources, curriculum, and courses!"
     creating: "Creando cuenta..."
     sign_up: "Registrarse"
@@ -378,7 +378,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     birthday: "Cumpleaños"
 #    parent_email_blurb: "We know you can't wait to learn programming &mdash; we're excited too! Your parents will receive an email with further instructions on how to create an account for you. Email {{email_link}} if you have any questions."
 #    classroom_not_found: "No classes exist with this Class Code. Check your spelling or ask your teacher for help."
-#    checking: "Checking..."
+    checking: "Comprobando..." # {changed 04-11-2020}
     account_exists: "Este correo electrónico ya está en uso:"
     sign_in: "Iniciar Sesión"
     email_good: "¡El email parece bueno!"
@@ -393,8 +393,8 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     signup_as_teacher: "Iniciar sesión como Maestro"
     student_type_1: "¡Aprende a programar mientras juegas un juego atractivo!"
     student_type_2: "Juega con tu clase"
-#    student_type_3: "Compete in arenas"
-#    student_type_4: "Choose your hero!"
+    student_type_3: "Compite en arenas"  # {changed 04-11-2020}
+    student_type_4: "¡Selecciona tu héroe!" # {changed 04-11-2020}
 #    student_type_5: "Have your Class Code ready!"
     signup_as_student: "Iniciar sesión como Estudiante"
 #    individuals_or_parents: "Individuals & Parents"
@@ -795,7 +795,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
 #    future_eng_5: "program which creates learning and work opportunities for all K-12 students in the United States who wish to pursue computer science."
 
 #  live_class:
-#    title: "Thank you!"
+#    title: "Thank you!" 
 #    content: "Amazing! We just launched live online classes."
 #    link: "Ready to get ahead on your coding?"
 
